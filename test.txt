@@ -2,3 +2,4 @@ tokyo
 nagoya
 Osaka
 Okinawa
+America
